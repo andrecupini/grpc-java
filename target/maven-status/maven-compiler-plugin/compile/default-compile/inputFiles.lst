@@ -1,9 +1,0 @@
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\java\br\com\zup\grpc\HelloRequestOrBuilder.java
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\grpc-java\br\com\zup\grpc\HelloServiceGrpc.java
-C:\Users\andre\projects\grpc-java\src\main\java\br\com\zup\grpc\service\HelloServiceImpl.java
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\java\br\com\zup\grpc\HelloWorldProto.java
-C:\Users\andre\projects\grpc-java\src\main\java\br\com\zup\grpc\GrpcClient.java
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\java\br\com\zup\grpc\HelloResponseOrBuilder.java
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\java\br\com\zup\grpc\HelloRequest.java
-C:\Users\andre\projects\grpc-java\target\generated-sources\protobuf\java\br\com\zup\grpc\HelloResponse.java
-C:\Users\andre\projects\grpc-java\src\main\java\br\com\zup\grpc\GrpcServer.java
