@@ -19,7 +19,7 @@ public class GrpcClient {
         var helloResponse = stub.hello(HelloRequest.newBuilder()
                 .setFirstName("André")
                 .setLastName("Cupini")
-                .setFrom("java grpc client")
+                .setLocation("java grpc client")
                 .build());
 
         log.info("Server response was: {}", helloResponse.getMessage());

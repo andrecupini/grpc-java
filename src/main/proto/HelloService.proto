@@ -14,7 +14,7 @@ service HelloService {
 message HelloRequest {
   string firstName = 1;
   string lastName = 2;
-  string from = 3;
+  string location = 3;
 }
 
 message HelloResponse {

@@ -19,7 +19,7 @@ public class HelloServiceImpl extends HelloServiceGrpc.HelloServiceImplBase {
                 " " +
                 request.getLastName() +
                 " - This message came from: " +
-                request.getFrom();
+                request.getLocation();
 
                 HelloResponse response = HelloResponse.newBuilder()
                 .setMessage(message)
